@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.top-line{
+    background: silver;
+}
+.top-line_2{
+    height: 200px;
+    background: #082546;
+}
+.bottom-line{
+    height: 600px;
+    background: silver;
+}
+.hight100{
+    height: 100px;
+}
+.bottom-line_2{
+    background: #082546;
+}
+.hight50{
+    height: 50px;
+}
+.width50{
+    width: 50px;
+}
+.width100{
+    width: 100px;
+}
