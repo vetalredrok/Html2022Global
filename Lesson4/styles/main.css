@@ -14,7 +14,7 @@ html, body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: center;
+    align-content: space-between;
 }
 .center{
     display: flex;
@@ -35,12 +35,12 @@ html, body{
     justify-content: space-between;
 }
 .b{
-    height: 60vh;
+    height: 65vh;
     width: 75%;
     background: silver;
 }
 .c{
-    height: 60vh;
+    height: 65vh;
     width: 23%;
     background: green;
 }
@@ -53,10 +53,10 @@ html, body{
     }
 
     .b-c {
-        /*height: 82%;*/
+        height: 82vh;
         display: flex;
         flex-direction: column;
-        gap: 2vh;
+        align-content: space-between;
     }
     .b{
         height: 65vh;
